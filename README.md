@@ -4,7 +4,7 @@
 
 ## Project live images
 
-![Screenshot 2023-05-05 134747](https://user-images.githubusercontent.com/131458541/236409856-8f3d6ba6-fba4-454f-b7c4-2690abe537e6.png width=100 height=100)
+![Screenshot 2023-05-05 134747](https://user-images.githubusercontent.com/131458541/236409856-8f3d6ba6-fba4-454f-b7c4-2690abe537e6.png width=100px height=100px)
 ![Screenshot 2023-05-05 134814](https://user-images.githubusercontent.com/131458541/236410206-7436407e-fa6a-4168-94b6-0ca9d3424454.png)
 ![Screenshot 2023-05-05 134953](https://user-images.githubusercontent.com/131458541/236410233-7ba7caa3-4686-488a-90cf-e473e351f6d4.png)
 ![Screenshot 2023-05-05 134841](https://user-images.githubusercontent.com/131458541/236410376-b9514425-0d6b-419a-bbef-7cef88cab98d.png)
