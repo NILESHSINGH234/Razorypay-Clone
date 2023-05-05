@@ -1,5 +1,6 @@
 # RazorPay-Clone-Project
   >I just made a RazorPay Clone Website for practicing Tailwinind CSS by using Tech stack  ![my badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+  It is Responsive For Mobile & Tablet Also
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Project live images
